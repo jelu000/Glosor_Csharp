@@ -1,6 +1,6 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: jens
+ * User: jens lundeqvist
  * Date: 2019-05-18
  * Time: 15:12
  * 
