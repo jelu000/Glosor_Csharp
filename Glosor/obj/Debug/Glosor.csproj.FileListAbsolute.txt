@@ -1,0 +1,6 @@
+C:\Users\jens\Documents\programmering\charp_projects\Glosor\Glosor\obj\Debug\Glosor.csprojResolveAssemblyReference.cache
+C:\Users\jens\Documents\programmering\charp_projects\Glosor\Glosor\bin\Debug\Glosor.exe.config
+C:\Users\jens\Documents\programmering\charp_projects\Glosor\Glosor\bin\Debug\Glosor.exe
+C:\Users\jens\Documents\programmering\charp_projects\Glosor\Glosor\bin\Debug\Glosor.pdb
+C:\Users\jens\Documents\programmering\charp_projects\Glosor\Glosor\obj\Debug\Glosor.exe
+C:\Users\jens\Documents\programmering\charp_projects\Glosor\Glosor\obj\Debug\Glosor.pdb
