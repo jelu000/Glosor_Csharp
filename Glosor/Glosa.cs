@@ -38,6 +38,15 @@ namespace Glosor
 			eng_glosa = teng_glosa;
 		}
 		
+		public void setSveGlosa(string tsve_glosa){
+			sve_glosa = tsve_glosa;
+		}
+		
+		public void setEngGlosa(string teng_glosa){
+			eng_glosa = teng_glosa;
+		}
+		
+		
 		//getters
 		public string getSveGlosa(){
 			return sve_glosa;
@@ -47,5 +56,15 @@ namespace Glosor
 			return eng_glosa;
 		}
 		
+		//Own Variables, different way to asign variables to this Object 
+		public string SveGlosa{
+			get { return sve_glosa; }
+			set { sve_glosa = value; }
+		}
+		
+		public string EngGlosa{
+			get { return eng_glosa; }
+			set { eng_glosa = value; }
+		}
 	}
 }
