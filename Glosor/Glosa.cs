@@ -56,7 +56,7 @@ namespace Glosor
 			return eng_glosa;
 		}
 		
-		//Own Variables, different way to asign variables to this Object 
+		//Different way to asign variables to this Object 
 		public string SveGlosa{
 			get { return sve_glosa; }
 			set { sve_glosa = value; }

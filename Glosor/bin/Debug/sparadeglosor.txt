@@ -1,0 +1,3 @@
+sve_glosa: plan - eng_glosa plane
+sve_glosa: eld - eng_glosa fire
+sve_glosa: bok - eng_glosa book
